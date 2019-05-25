@@ -1,3 +1,12 @@
+This project, is a simplepaginator, using a fake API rest to get data, you can see a list of users, and see detail of each one clickin on them, this project was created with lazy-loading architecture.
+
+![test1](https://user-images.githubusercontent.com/8810299/58370430-79044400-7ed4-11e9-908b-c99eb2d7505f.png)
+
+![test2](https://user-images.githubusercontent.com/8810299/58370435-7e618e80-7ed4-11e9-871a-bea49f937a2b.png)
+
+![test3](https://user-images.githubusercontent.com/8810299/58370438-81f51580-7ed4-11e9-9ba6-505c0b743f72.png)
+
+
 # BlankProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.8.
