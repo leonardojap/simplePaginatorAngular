@@ -1,0 +1,19 @@
+<div>
+
+  <ul>
+    <li *ngFor="let item of listUsers" class="itemList" (click)="showUser(item.id)">
+      <img src="{{item.avatar}}" alt="">
+      <div class="data">
+        <strong>First name:<i>{{item.first_name}}</i></strong>
+        <br>
+        <strong>First name:<i>{{item.first_name}}</i></strong>
+      </div>
+    </li>
+  </ul>
+  <div class="paginator">
+    <button (click)="previousPage()">prev</button>
+    page {{page}}
+    <button (click)="nextPage()">next</button>
+  </div>
+
+</div>
